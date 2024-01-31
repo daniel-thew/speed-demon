@@ -1,2 +1,1 @@
-# speed-demon
-Computer Graphics project from Fall 2023
+# CAP4720_Final_Project
